@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+pandas-ta
+websockets
+httpx
+python-binance
