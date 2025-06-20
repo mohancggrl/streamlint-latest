@@ -1,5 +1,6 @@
-streamlit==1.28.0
-rich>=10.14.0,<14  # Do NOT manually force 14.x
-ccxt==4.2.85
-pandas==2.0.3
-numpy==1.24.4
+streamlit>=1.35.0
+pandas>=2.2.2
+numpy>=1.26.4
+matplotlib>=3.8.4
+scikit-learn>=1.5.0
+plotly>=5.22.0
