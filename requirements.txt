@@ -7,3 +7,8 @@ plotly==5.11.0
 scipy==1.9.3
 python-binance==1.0.19
 ta==0.10.2
+streamlit>=1.22.0
+numpy>=2.0.0  # Newer NumPy versions support Python 3.13
+python-binance>=1.0.0
+plotly>=5.0.0
+pandas>=2.0.0
