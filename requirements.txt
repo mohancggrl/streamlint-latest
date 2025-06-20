@@ -1,7 +1,5 @@
-streamlit
-pandas
-numpy
-pandas-ta
-websockets
-httpx
-python-binance
+streamlit==1.28.0
+rich>=10.14.0,<14  # Do NOT manually force 14.x
+ccxt==4.2.85
+pandas==2.0.3
+numpy==1.24.4
